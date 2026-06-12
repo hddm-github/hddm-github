@@ -44,16 +44,6 @@ building small tools, backend services and trading systems
 
 ---
 
-### streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=hddm-github&theme=github-dark-blue&hide_border=true" />
-
-</div>
-
----
-
 ### activity
 
 <div align="center">
