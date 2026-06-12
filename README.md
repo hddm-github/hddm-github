@@ -28,72 +28,6 @@
 
 ---
 
-# 🚀 About Me
-
-```go
-package main
-
-type Developer struct {
-    Name     string
-    Location string
-    Stack    []string
-    Learning []string
-}
-
-func main() {
-    me := Developer{
-        Name:     "LiQiang",
-        Location: "Beijing",
-        Stack: []string{
-            "Go",
-            "Java",
-            "SpringBoot",
-            "Go-Zero",
-            "Vue",
-            "MySQL",
-            "Redis",
-            "Docker",
-        },
-        Learning: []string{
-            "AI Agent",
-            "Web3",
-            "Blockchain",
-            "System Design",
-        },
-    }
-
-    _ = me
-}
-```
-
----
-
-# 🛠 Tech Stack
-
-## Backend
-
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go)
-![Java](https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=openjdk)
-![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot)
-![Go-Zero](https://img.shields.io/badge/GoZero-00BFFF?style=for-the-badge)
-
----
-
-## Frontend
-
-![Vue](https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vue.js)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
-
----
-
-## Database
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-
----
 
 ## DevOps
 
@@ -137,31 +71,6 @@ src="https://github-profile-trophy.vercel.app/?username=hddm-github&theme=tokyon
 
 </div>
 
----
-
-# 🚀 Featured Projects
-
-| Project | Description |
-|----------|----------|
-| ⭐ ms-coin | 基于 Go 的数字货币量化交易系统 |
-| ⭐ agent-backend-demo | AI Agent 后端服务 |
-| ⭐ agent-frontend-demo | AI Agent 前端项目 |
-| ⭐ chainlink-Lesson3 | Web3 学习记录 |
-| ⭐ study_jvm | JVM 学习笔记 |
-| ⭐ spring-reading | Spring 源码阅读 |
-
----
-
-# 🌱 Currently Learning
-
-- AI Agent
-- MCP
-- Multi-Agent
-- Blockchain
-- Solidity
-- Chainlink
-- System Design
-- Kubernetes
 
 ---
 
