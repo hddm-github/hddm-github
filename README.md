@@ -37,8 +37,7 @@ Vibe Coding 爱好者
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hddm-github&theme=github-compact&hide_border=true" />
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hddm-github&theme=github-compact&hide_border=true&custom_title=%E6%9C%80%E8%BF%91%E6%B4%BB%E8%B7%83%E8%AE%B0%E5%BD%95" />
 </div>
 
 ---
