@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi 👋 I'm LiQiang
 
-<!--
-**hddm-github/hddm-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Go Developer
 
-Here are some ideas to get you started:
+🌱 Learning Web3 / AI Agent
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Spring Boot | Go-Zero | Vue
+
+📫 liqiangwqx@gmail.com
+
+---
+
+## Tech Stack
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go)
+
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge)
+
+![SpringBoot](https://img.shields.io/badge/SpringBoot-green?style=for-the-badge)
+
+![Redis](https://img.shields.io/badge/Redis-red?style=for-the-badge)
+
+![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge)
