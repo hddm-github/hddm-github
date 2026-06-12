@@ -1,7 +1,7 @@
 <div align="center">
 
 <samp>
-  building tools · reading source code · exploring ai agents & web3
+  构建工具 · 阅读源码 · 探索 AI Agent 与 Web3
 </samp>
 
 <br/>
@@ -22,19 +22,18 @@
 
 ---
 
-### whoami
+### 关于我
 
 <pre>
-backend developer
-focus on Go / Java / Spring Boot / Go-Zero
-learning AI Agent / Web3 / Blockchain
-building small tools, backend services and trading systems
+Vibe Coding 爱好者
+主要关注 Go / Java / Solidity
+正在学习  Web3 / 区块链
+持续构建一些小工具、后端服务和交易系统
 </pre>
-
 
 ---
 
-### activity
+### 最近活跃
 
 <div align="center">
 
@@ -44,20 +43,10 @@ building small tools, backend services and trading systems
 
 ---
 
-### contribution snake
+### 贡献贪吃蛇
 
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/hddm-github/hddm-github/output/github-contribution-grid-snake.svg" />
 
 </div>
-
----
-
-### notes
-
-<pre>
-keep coding.
-keep reading.
-keep shipping.
-</pre>
